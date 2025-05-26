@@ -3,7 +3,7 @@
 #### (Unofficial PyTorch Implementation)
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-Inspired by [FouRA: Fourier Low Rank Adaptation](https://arxiv.org/abs/2406.08798v1), this is a community implementation for the paper. The project scaffolding was mostly written out by gemini so yeah hf with the AI gen code-I'll try and fix a bunch of stuff later
+Inspired by [FouRA: Fourier Low Rank Adaptation](https://arxiv.org/abs/2406.08798v1) by Borse et al. (2024), this is a community implementation for the paper. Tthis is a community-made implementation. The project scaffolding(minus the actual foura implementation) was mostly sketched out by Gemini, so yeah—have fun with the AI-generated code.
 
 ## What is FouRA (Fourier Low-Rank Adaptation)?
 
