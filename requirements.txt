@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers
+scikit-learn
+wandb
+pytest
+tqdm 
